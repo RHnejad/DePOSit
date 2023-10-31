@@ -5,3 +5,7 @@
 
 # C extensions
 *.so
+
+#new:
+model_*/
+default/
